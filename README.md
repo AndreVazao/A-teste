@@ -1,1 +1,3 @@
-# A-teste
+# Teste Painel IA
+
+Repo criada pelo painel.
